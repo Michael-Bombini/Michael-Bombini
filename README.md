@@ -18,7 +18,7 @@
  </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michael-bombini&hide="html"&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="michael-bombini" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michael-bombini&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="michael-bombini" /></p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Bombini&show_icons=true&theme=tokyonight)
 
