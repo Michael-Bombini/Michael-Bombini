@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Vue JS**
+- 🌱 I’m currently learning **PHP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Michael-Bombini?tab=repositories](https://github.com/Michael-Bombini?tab=repositories)
 
