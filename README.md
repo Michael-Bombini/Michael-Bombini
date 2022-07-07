@@ -16,6 +16,10 @@
  <a href="https://vuejs.org/" target="_blank">
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vue_icon_130078.png" width="50" height="50"/>
  </a>
+ <a href="https://sass-lang.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" alt="Sass" width="50" height="50"/>
+</a>
+ 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michael-bombini&hide=html&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="michael-bombini" /></p>
