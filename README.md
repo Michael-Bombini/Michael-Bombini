@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **Laravel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Michael-Bombini?tab=repositories](https://github.com/Michael-Bombini?tab=repositories)
 
@@ -22,7 +22,13 @@
  <a href="https://www.php.net/" target="_blank">
   <img src="https://www.php.net/images/logos/new-php-logo.svg" alt="php" width="50" height="50"/>
 </a>
- 
+ <a href="https://www.mysql.com/" target="_blank">
+  <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="sql" width="50" height="50"/>
+</a>
+ <a href="https://laravel.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="sql" width="50" height="50"/>
+</a>
+
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michael-bombini&hide=html&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="michael-bombini" /></p>
