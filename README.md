@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 👨‍💻 You can check my portfolio here :  **https://michaelbombini.dev/**
+- 👨‍💻 You can check my portfolio here :  **https://michaelbombini.dev/**  (STILL W.I.P)
 
 - 📫 You can reach me here : **bombini.michael@gmail.com**
 
