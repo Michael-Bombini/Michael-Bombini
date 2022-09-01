@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Michael-Bombini?tab=repositories](https://github.com/Michael-Bombini?tab=repositories)
+- 👨‍💻 You can check my portfolio here :  **https://michaelbombini.dev/**
 
-- 📫 You can reach me here **bombini.michael@gmail.com**
+- 📫 You can reach me here : **bombini.michael@gmail.com**
 
 
 <h3 align="center">Languages and Tools:</h3>
