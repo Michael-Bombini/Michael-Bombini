@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently improving my web dev skills 
 
 - 👨‍💻 You can check my portfolio here :  **https://michaelbombini.dev/** 
 
