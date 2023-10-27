@@ -2,9 +2,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michael-bombini&label=Profile%20views&color=0e75b6&style=flat" alt="michael-bombini" /> </p>
 
 
-
-- 🌱 I’m currently improving my web dev skills 
-
 - 👨‍💻 You can check my portfolio here :  **https://michaelbombini.dev/** 
 
 - 📫 You can reach me here : **bombini.michael@gmail.com**
